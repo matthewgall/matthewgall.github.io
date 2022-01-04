@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matthew Gall</title><link>/</link><description>Recent content on Matthew Gall</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Matthew Gall 2022</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome... to... well, me!</title><link>/posts/welcome/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>/posts/welcome/</guid><description>A dodgy upgrade of Ghost has lost my website, and as such, I thought it was time to start again.
+Stay tuned for more from me!</description><content>&lt;p>A dodgy upgrade of Ghost has lost my website, and as such, I thought it was time to start again.&lt;/p>
+&lt;p>Stay tuned for more from me!&lt;/p></content></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>My name is Matthew Gall, and when I&amp;rsquo;m not dealing with all things abuse as a Senior Trust &amp;amp; Safety Engineer at Cloudflare, I&amp;rsquo;m probably moonlighting as one of the founders of PiCymru, or working on films, or flying drones.
+I reside in London, but my home is Wales. Er fy mod wrth fy modd yn siarad Cymraeg, nid wyf yn siarad cymaint ag y dylwn.
+You see it&amp;rsquo;s quite simple&amp;hellip; Starting off young, I&amp;rsquo;ve been a software engineer since 2000, over 17 years and I&amp;rsquo;ve seen it all.</description><content>&lt;p>My name is Matthew Gall, and when I&amp;rsquo;m not dealing with all things abuse as a Senior Trust &amp;amp; Safety Engineer at &lt;a href="https://www.cloudflare.com">Cloudflare&lt;/a>, I&amp;rsquo;m probably moonlighting as one of the founders of &lt;a href="https://picymru.org.uk">PiCymru&lt;/a>, or working on films, or flying drones.&lt;/p>
+&lt;p>I reside in London, but my home is Wales. Er fy mod wrth fy modd yn siarad Cymraeg, nid wyf yn siarad cymaint ag y dylwn.&lt;/p>
+&lt;h2 id="you-see-its-quite-simple">You see it&amp;rsquo;s quite simple&amp;hellip;&lt;/h2>
+&lt;p>Starting off young, I&amp;rsquo;ve been a software engineer since 2000, over 17 years and I&amp;rsquo;ve seen it all.&lt;/p></content></item><item><title>Contact</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>Want to get in touch with me? It couldn&amp;rsquo;t be easier!
+Social Media Twitter »
+Facebook »
+Instagram »
+Encrypted Telegram »
+Session »
+PGP Keybase »
+E-Mail hello [at]</description><content>&lt;p>Want to get in touch with me? It couldn&amp;rsquo;t be easier!&lt;/p>
+&lt;h2 id="social-media">Social Media&lt;/h2>
+&lt;p>&lt;a href="https://twitter.com/matthewgall">Twitter »&lt;/a>&lt;br>
+&lt;a href="https://facebook.com/thematthewgall">Facebook »&lt;/a>&lt;br>
+&lt;a href="https://instagram.com/thematthewgall">Instagram »&lt;/a>&lt;/p>
+&lt;h2 id="encrypted">Encrypted&lt;/h2>
+&lt;p>&lt;a href="https://t.me/matthewgall">Telegram »&lt;/a>&lt;br>
+&lt;a href="session:059ff39ce60c5686f71e6f84fa9949c46978c202b61c9a2f5d1c2245a86bd58b2b">Session »&lt;/a>&lt;/p>
+&lt;h2 id="pgp">PGP&lt;/h2>
+&lt;p>&lt;a href="https://keybase.io/matthewgall">Keybase »&lt;/a>&lt;/p>
+&lt;h2 id="e-mail">E-Mail&lt;/h2>
+&lt;p>hello [at]&lt;/p></content></item><item><title>Tools</title><link>/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/</guid><description>Sometimes, I need data in other formats, and sometimes, that is just hard. Well, not any longer with these following systems!
+Websites abuse.cloud Seeing abusive behaviour from an IP address, or on an IP address. Need to know whom to contact? Now you can with abuse.cloud
+Visit »
+asnjson.com asnjson.com is a simple frontend to the amazing Team Cymru, IP to ASN lookup tool
+Visit »
+Source »
+count.re Sometimes we just need a counter, nothing magic, just a simple counter.</description><content>&lt;p>Sometimes, I need data in other formats, and sometimes, that is just hard. Well, not any longer with these following systems!&lt;/p>
+&lt;h2 id="websites">Websites&lt;/h2>
+&lt;h3 id="abusecloud">abuse.cloud&lt;/h3>
+&lt;p>Seeing abusive behaviour from an IP address, or on an IP address. Need to know whom to contact? Now you can with abuse.cloud&lt;/p>
+&lt;p>&lt;a href="https://abuse.cloud">Visit »&lt;/a>&lt;/p>
+&lt;h3 id="asnjsoncom">asnjson.com&lt;/h3>
+&lt;p>asnjson.com is a simple frontend to the amazing Team Cymru, IP to ASN lookup tool&lt;/p>
+&lt;p>&lt;a href="https://asnjson.com">Visit »&lt;/a>&lt;br>
+&lt;a href="https://github.com/matthewgall/asnjson.com">Source »&lt;/a>&lt;/p>
+&lt;h3 id="countre">count.re&lt;/h3>
+&lt;p>Sometimes we just need a counter, nothing magic, just a simple counter. If you need this, then count.re is for you!&lt;/p>
+&lt;p>&lt;a href="https://count.re">Visit »&lt;/a>&lt;br>
+&lt;a href="https://github.com/matthewgall/count.re">Source »&lt;/a>&lt;/p>
+&lt;h3 id="dnsjsoncom">dnsjson.com&lt;/h3>
+&lt;p>For when DNS is a pain, and parsing DNS is even worse. Pick any supported record type, and get back JSON or plain text responses direct to your app.&lt;/p>
+&lt;p>&lt;a href="https://dnsjson.com">Visit »&lt;/a>&lt;br>
+&lt;a href="https://github.com/matthewgall/dnsjson.com">Source »&lt;/a>&lt;/p>
+&lt;h3 id="ipinfoin">ipinfo.in&lt;/h3>
+&lt;p>Ever wanted to run your own IP lookup service like canhazip.com? Don&amp;rsquo;t want to resort to awful PHP? Powered by Python and bottle, now you can!&lt;/p>
+&lt;p>&lt;a href="https://ipinfo.in">Visit »&lt;/a>&lt;br>
+&lt;a href="https://github.com/matthewgall/ipinfo.in">Source »&lt;/a>&lt;/p>
+&lt;h3 id="whereismyfamily">whereismy.family&lt;/h3>
+&lt;p>&lt;a href="https://whereismy.family">Visit »&lt;/a>&lt;br>
+&lt;a href="https://gitlab.com/matthewgall/whereismy.family">Source »&lt;/a>&lt;/p>
+&lt;h2 id="chatbots">Chatbots&lt;/h2>
+&lt;h3 id="1111---cloudflare-dns">1.1.1.1 - Cloudflare DNS&lt;/h3>
+&lt;p>&lt;a href="https://t.me/oneoneoneonebot">oneoneoneonebot&lt;/a>&lt;br>
+&lt;a href="https://t.me/onezerozeroonebot">onezerozeroonebot&lt;/a>&lt;br>
+&lt;a href="https://t.me/onedotonedotonedotonedotbot">onedotonedotonedotonedotbot&lt;/a>&lt;br>
+&lt;a href="https://t.me/cloudflarednsbot">cloudflarednsbot&lt;/a>&lt;/p>
+&lt;h3 id="urlscanio">urlscan.io&lt;/h3>
+&lt;p>&lt;a href="https://t.me/urlscanbot">urlscanbot&lt;/a>&lt;/p></content></item></channel></rss>
