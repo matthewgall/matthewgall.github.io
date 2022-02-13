@@ -12,8 +12,12 @@ Instagram »
 Encrypted Telegram »
 Threema »
 Session »
+XMPP conversations.im
+jabber.org
 PGP Keybase »
-E-Mail hello [at]</description><content>&lt;p>Want to get in touch with me? It couldn&amp;rsquo;t be easier!&lt;/p>
+E-Mail hello [at]
+Letters &amp;amp; Parcels Some people like letters, no idea why&amp;hellip;.
+Letters Box 74983, PO Box 92, Cardiff, CF11 1NB</description><content>&lt;p>Want to get in touch with me? It couldn&amp;rsquo;t be easier!&lt;/p>
 &lt;h2 id="social-media">Social Media&lt;/h2>
 &lt;p>&lt;a href="https://twitter.com/matthewgall">Twitter »&lt;/a>&lt;br>
 &lt;a href="https://facebook.com/thematthewgall">Facebook »&lt;/a>&lt;br>
@@ -22,10 +26,20 @@ E-Mail hello [at]</description><content>&lt;p>Want to get in touch with me? It c
 &lt;p>&lt;a href="https://t.me/matthewgall">Telegram »&lt;/a>&lt;br>
 &lt;a href="https://threema.id/KTRDPX9W">Threema »&lt;/a>&lt;br>
 &lt;a href="session:059ff39ce60c5686f71e6f84fa9949c46978c202b61c9a2f5d1c2245a86bd58b2b">Session »&lt;/a>&lt;/p>
+&lt;h2 id="xmpp">XMPP&lt;/h2>
+&lt;p>&lt;a href="xmpp:matthewgall@conversations.im?roster;name=Matthew%20Gall">conversations.im&lt;/a>&lt;br>
+&lt;a href="xmpp:matthewgall@jabber.org?roster;name=Matthew%20Gall">jabber.org&lt;/a>&lt;/p>
 &lt;h2 id="pgp">PGP&lt;/h2>
 &lt;p>&lt;a href="https://keybase.io/matthewgall">Keybase »&lt;/a>&lt;/p>
 &lt;h2 id="e-mail">E-Mail&lt;/h2>
-&lt;p>hello [at]&lt;/p></content></item><item><title>Tools</title><link>/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/</guid><description>Sometimes, I need data in other formats, and sometimes, that is just hard. Well, not any longer with these following systems!
+&lt;p>hello [at]&lt;/p>
+&lt;h2 id="letters--parcels">Letters &amp;amp; Parcels&lt;/h2>
+&lt;p>Some people like letters, no idea why&amp;hellip;.&lt;/p>
+&lt;h3 id="letters">Letters&lt;/h3>
+&lt;p>Box 74983,
+PO Box 92,
+Cardiff,
+CF11 1NB&lt;/p></content></item><item><title>Tools</title><link>/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/</guid><description>Sometimes, I need data in other formats, and sometimes, that is just hard. Well, not any longer with these following systems!
 Websites asnjson.com asnjson.com is a simple frontend to the amazing Team Cymru, IP to ASN lookup tool
 Visit »
 Source »
